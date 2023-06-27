@@ -8,11 +8,11 @@
 
 ## 一、Getting Started with CUDA
 
-#### NVIDIA 官方代码
+#### NVIDIA Official Code
 
 [[code]](https://github.com/NVIDIA/cuda-samples)
 
-####  CUDA 书籍推荐
+####  CUDA Book Recommend
 
 Cuda by Example
 
